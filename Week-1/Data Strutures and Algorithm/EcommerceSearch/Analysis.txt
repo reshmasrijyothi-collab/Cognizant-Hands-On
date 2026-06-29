@@ -1,0 +1,5 @@
+
+Big O measures algorithm growth.
+Linear Search: Best O(1), Avg/Worst O(n)
+Binary Search: Best O(1), Avg/Worst O(log n)
+Binary search is preferred for large platforms.
