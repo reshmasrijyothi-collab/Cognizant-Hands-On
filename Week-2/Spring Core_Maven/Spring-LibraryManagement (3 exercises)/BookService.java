@@ -1,0 +1,1 @@
+public class BookService{private BookRepository repo;public void setRepo(BookRepository r){repo=r;}public void show(){repo.display();}}

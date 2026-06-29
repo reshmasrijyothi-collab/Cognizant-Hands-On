@@ -1,0 +1,5 @@
+
+<beans xmlns="http://www.springframework.org/schema/beans">
+<bean id="repo" class="BookRepository"/>
+<bean id="service" class="BookService"><property name="repo" ref="repo"/></bean>
+</beans>
